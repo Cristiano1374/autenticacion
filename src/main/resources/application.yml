@@ -10,3 +10,5 @@ springdoc:
   swagger-ui:
     enabled: true
     path: /swagger-ui.html # Ruta de la interfaz de Swagger UI
+jwt:
+  secret: N4tR2!jlk@8B#wXzE0pq7uRsYvZ5mLqT
